@@ -11,8 +11,8 @@
               </div>
 
               <div class="blog_details">
-                <h2>{{$page.post.title}}</h2>
-                <div class="excert" v-html="$page.post.content"></div>
+                <!-- <h2>{{$page.post.title}}</h2> -->
+                <!-- <div class="excert" v-html="$page.post.content"></div> -->
               </div>
             </div>
           </div>
@@ -22,16 +22,6 @@
   </layout>
 </template>
 
-<page-query>
-
-query Post ($path: String!){
-	post: post (path: $path) {
-		title
-		content
-	}
-}
-
-</page-query>
 
 <script>
 export default {};
