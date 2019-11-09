@@ -8,13 +8,13 @@
             <span class="hero-banner-icon">
               <i class="flaticon-sing"></i>
             </span>
-            <p>21 - 22 / 02 / 2020, à l'Université de Kinshasa</p>
-            <h2>Journées Informatiques Edition 13</h2>
+            <p>21 - 22 / 02 / 2020</p>
+            <h2>Les Journées Informatiques Edition 13</h2>
             <p>
               Les rendez-vous des
               <span id="typed1"></span>
             </p>
-            <g-link class="button button-header" to="/join">Rejoignez-nous</g-link>
+            <g-link class="button button-header" to="/contact">Rejoignez-nous</g-link>
           </div>
           <div class="col-12 col-sm-4">
             <g-image class="img-fluid" src="~/assets/img/banner/vr.png"></g-image>
@@ -938,7 +938,7 @@ import particlesJS from "~/components/ParticulesJS.vue";
 
 export default {
   metaInfo: {
-    title: "Journées Informatiques"
+    title: "Les Journées Informatiques"
   },
   components: { particlesJS },
   mounted() {
