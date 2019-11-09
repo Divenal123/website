@@ -11,7 +11,6 @@ import "~/assets/vendors/linericon/style.css";
 import "~/assets/scss/style.scss";
 
 import Header from "~/layouts/Header.vue";
-
 // import "~/assets/vendors/jquery/jquery-3.2.1.min.js";
 //import "~/assets/js/jquery.ajaxchimp.min.js";
 //import "~/assets/js/jquery.magnific-popup.min.js";
@@ -20,4 +19,5 @@ export default function(Vue, { router, head, isClient }) {
   // Set default layout as a global component
   Vue.use(BootstrapVue);
   Vue.component("Layout", Header);
+  head.script.push({ src: "/assets/vendors/jquery/jquery-3.2.1.min.js " });
 }

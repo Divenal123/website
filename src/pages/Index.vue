@@ -729,7 +729,12 @@
         <div class="row no-gutters">
           <div class="col-sm-6 col-md-4">
             <div class="single-imgs relative">
-              <g-image class="card-img rounded-0" src="~/assets/img/gallery/ji11/g1.png" alt />
+              <g-image
+                class="card-img rounded-0"
+                src="~/assets/img/gallery/ji11/g1.png"
+                quality="70"
+                alt
+              />
               <div class="overlay">
                 <div class="overlay-content">
                   <div class="overlay-icon">
@@ -741,7 +746,12 @@
           </div>
           <div class="col-sm-6 col-md-4">
             <div class="single-imgs relative">
-              <g-image class="card-img rounded-0" src="~/assets/img/gallery/ji11/g4.png" alt />
+              <g-image
+                class="card-img rounded-0"
+                src="~/assets/img/gallery/ji11/g4.png"
+                quality="70"
+                alt
+              />
               <div class="overlay">
                 <div class="overlay-content">
                   <div class="overlay-icon">
@@ -753,7 +763,12 @@
           </div>
           <div class="col-sm-6 col-md-4">
             <div class="single-imgs relative">
-              <g-image class="card-img rounded-0" src="~/assets/img/gallery/ji12/g3.png" alt />
+              <g-image
+                class="card-img rounded-0"
+                src="~/assets/img/gallery/ji12/g3.png"
+                quality="70"
+                alt
+              />
               <div class="overlay">
                 <div class="overlay-content">
                   <div class="overlay-icon">
@@ -765,7 +780,12 @@
           </div>
           <div class="col-sm-6 col-md-4">
             <div class="single-imgs relative">
-              <g-image class="card-img rounded-0" src="~/assets/img/gallery/ji12/g4.png" alt />
+              <g-image
+                class="card-img rounded-0"
+                src="~/assets/img/gallery/ji12/g4.png"
+                quality="70"
+                alt
+              />
               <div class="overlay">
                 <div class="overlay-content">
                   <div class="overlay-icon">
@@ -777,7 +797,12 @@
           </div>
           <div class="col-sm-6 col-md-4">
             <div class="single-imgs relative">
-              <g-image class="card-img rounded-0" src="~/assets/img/gallery/ji12/g5.png" alt />
+              <g-image
+                class="card-img rounded-0"
+                src="~/assets/img/gallery/ji12/g5.png"
+                quality="70"
+                alt
+              />
               <div class="overlay">
                 <div class="overlay-content">
                   <div class="overlay-icon">
@@ -789,7 +814,12 @@
           </div>
           <div class="col-sm-6 col-md-4">
             <div class="single-imgs relative">
-              <g-image class="card-img rounded-0" src="~/assets/img/gallery/ji12/g6.png" alt />
+              <g-image
+                class="card-img rounded-0"
+                src="~/assets/img/gallery/ji12/g6.png"
+                quality="70"
+                alt
+              />
               <div class="overlay">
                 <div class="overlay-content">
                   <div class="overlay-icon">
