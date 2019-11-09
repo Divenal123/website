@@ -2,7 +2,6 @@
   <Layout>
     <!--================Hero Banner Area Start =================-->
     <section class="hero-banner">
-      <particlesJS />
       <b-container>
         <b-row>
           <div class="col-12 col-sm-6" style="z-index: 10;">
