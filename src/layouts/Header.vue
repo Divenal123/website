@@ -174,7 +174,7 @@
             <p class="col-lg-12 col-sm-12 footer-text m-0 text-center">
               Code with
               <i class="fa fa-heart" aria-hidden="true"></i> by
-              <a href="#" target="_blank">JI13 Team</a>
+              <a href target="_blank">JI13 Team</a>
 
               <!-- Tweaked by igorvisi (https://igorvisi.com). -->
             </p>
@@ -196,6 +196,7 @@ query {
 <script>
 export default {
   mounted() {
+    window.$ = require("jquery");
     var nav_offset_top = $("header").height() + 50;
 
     //* Navbar Fixed
