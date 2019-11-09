@@ -172,12 +172,11 @@
         <div class="container">
           <div class="row align-items-center">
             <p class="col-lg-12 col-sm-12 footer-text m-0 text-center">
-              Templated by
-              <a href="https://colorlib.com" target="_blank">Colorlib</a> and tweaked with
+              Code with
               <i class="fa fa-heart" aria-hidden="true"></i> by
-              <a href="https://igorvisi.com" target="_blank">igorvisi</a>
+              <a href="#" target="_blank">JI13 Team</a>
 
-              <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+              <!-- Tweaked by igorvisi (https://igorvisi.com). -->
             </p>
           </div>
         </div>

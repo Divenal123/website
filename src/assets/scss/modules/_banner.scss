@@ -1,54 +1,54 @@
 /* banner section start
 	============================================================================================ */
-.hero-banner{
+.hero-banner {
   position: relative;
   padding: 70px 0;
   // height: 400px;
-  background: url("~@/assets/img/banner/hero-banner.png") left center no-repeat;
+  background: url("~@/assets/img/banner/hero-banner.jpg") left center no-repeat;
   background-size: cover;
   // z-index: 2;
 
-  @media(min-width: 768px){
+  @media(min-width: 768px) {
     padding: 120px 0;
   }
 
-  @media(min-width: 1200px){
+  @media(min-width: 1200px) {
     padding: 180px 0;
   }
 
-  &-sm{
+  &-sm {
     padding-top: 80px;
     padding-bottom: 80px;
 
-    @media(min-width: 992px){
+    @media(min-width: 992px) {
       padding-top: 170px;
       padding-bottom: 170px;
     }
   }
 
-  h1{
+  h1 {
     color: $white;
     margin-bottom: 25px;
     font-size: 28px;
 
-    @media(min-width: 768px){
+    @media(min-width: 768px) {
       font-size: 60px;
       margin-bottom: 45px;
     }
   }
 
-  h2{
+  h2 {
     font-size: 22px;
     color: $white;
     text-transform: uppercase;
     margin-bottom: 0;
 
-    @media(min-width: 768px){
+    @media(min-width: 768px) {
       font-size: 42px;
     }
   }
 
-  p{
+  p {
     font-size: 22px;
     color: $white;
     margin-bottom: 0;
@@ -79,31 +79,36 @@
   // }
 }
 
-.hero-banner-icon{
+.hero-banner-icon {
   color: $white;
   display: inline-block;
   // margin-bottom: 10px;
 
-  @media(min-width: 768px){
+  @media(min-width: 768px) {
     margin-bottom: 10px;
   }
 
-  i,span{
+  i,
+  span {
     font-size: 35px;
 
-    @media(min-width: 768px){
+    @media(min-width: 768px) {
       font-size: 60px;
     }
   }
 
-  [class^="flaticon-"]:before, [class*=" flaticon-"]:before, [class^="flaticon-"]:after, [class*=" flaticon-"]:after{
+  [class^="flaticon-"]:before,
+  [class*=" flaticon-"]:before,
+  [class^="flaticon-"]:after,
+  [class*=" flaticon-"]:after {
     font-size: 35px;
 
-    @media(min-width: 768px){
+    @media(min-width: 768px) {
       font-size: 60px;
     }
   }
 }
+
 /* banner section end
   ============================================================================================ */
 
@@ -111,36 +116,36 @@
 
 /* breadcrumb section start
   ============================================================================================ */
-  .banner-breadcrumb{
-    display: inline-block;
+.banner-breadcrumb {
+  display: inline-block;
 
-    .breadcrumb{
-      background: transparent;
-      padding: 0;
+  .breadcrumb {
+    background: transparent;
+    padding: 0;
 
-      &-item{
-        padding: .1rem;
+    &-item {
+      padding: .1rem;
 
-        a{
-          text-transform: capitalize;
-          color: #fff;
-        }
+      a {
+        text-transform: capitalize;
+        color: #fff;
+      }
 
-        &+.breadcrumb-item::before{
-          color: #fff;
-          padding-left: .2rem;
-          padding-right: .4rem;
-          // content: "-";
-        }
+      &+.breadcrumb-item::before {
+        color: #fff;
+        padding-left: .2rem;
+        padding-right: .4rem;
+        // content: "-";
+      }
 
-        &.active{
-          color: #fff;
-        }
+      &.active {
+        color: #fff;
       }
     }
   }
+}
 
-#particles-js > canvas{
+#particles-js>canvas {
   position: absolute;
   z-index: 5;
 }

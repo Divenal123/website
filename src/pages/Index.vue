@@ -40,19 +40,19 @@
                 socio-économique en RDC »
               </h3>
               <p class="h4 primary-text2 mb-3">C'est quoi « les Journées Informatiques » ?</p>
-              <p>
+              <p class="text-justify">
                 Les journées informatiques(JI) est une organisation de l'Université de Kinshasa réunissant des étudiants
                 autour des
                 activités à caractère académique et social sur le numérique.
               </p>
               <br />
-              <p>
+              <p class="text-justify">
                 Les Journées Informatiques offrent aussi des
                 opportunités de réseautage, de visibilité et surtout de lever des fonds pour financer des projets sur le
                 numérique.
               </p>
               <br />
-              <p>
+              <p class="text-justify">
                 Elle est organisée par le département des
                 mathématiques et informatique de
                 la Faculté des
@@ -102,7 +102,7 @@
               <i class="flaticon-prize"></i>
             </div>
             <h3>App challenge</h3>
-            <p>
+            <p class="text-justify">
               Une compétition qui vise à développer et présenter des solutions numériques par les étudiants pour
               améliorer la vie
               quotidienne en RDC. Chaque solution sera soumise aux votes des jury et du public.
@@ -114,7 +114,7 @@
               <i class="flaticon-sing"></i>
             </div>
             <h3>Séminaires & conférences</h3>
-            <p>
+            <p class="text-justify">
               Ainsi que des cours et formations sur de différents sujets tels que la programmation, réseaux ainsi que
               différents logiciels utilisés dans le numérique .
             </p>
@@ -125,7 +125,7 @@
               <i class="flaticon-earth-globe"></i>
             </div>
             <h3>Hackathons</h3>
-            <p>
+            <p class="text-justify">
               Marathons en groupe pour trouver des solutions à des problèmes donnés grâce à des applications conçues à
               un
               intervale de temps réduit.
@@ -134,7 +134,7 @@
         </div>
         <div class="row mt-5">
           <div class="col-12 text-center">
-            <g-link class="button mb-2" to="/join">Voir l'agenda</g-link>
+            <g-link class="button mb-2" to="/contact">Voir l'agenda</g-link>
           </div>
         </div>
       </div>
@@ -728,88 +728,76 @@
 
         <div class="row no-gutters">
           <div class="col-sm-6 col-md-4">
-            <a href="/assets/static/src/assets/img/gallery/ji11/g1.png" class="img-gal">
-              <div class="single-imgs relative">
-                <g-image class="card-img rounded-0" src="~/assets/img/gallery/ji11/g1.png" alt />
-                <div class="overlay">
-                  <div class="overlay-content">
-                    <div class="overlay-icon">
-                      <i class="ti-plus"></i>
-                    </div>
+            <div class="single-imgs relative">
+              <g-image class="card-img rounded-0" src="~/assets/img/gallery/ji11/g1.png" alt />
+              <div class="overlay">
+                <div class="overlay-content">
+                  <div class="overlay-icon">
+                    <i class="ti-plus"></i>
                   </div>
                 </div>
               </div>
-            </a>
+            </div>
           </div>
           <div class="col-sm-6 col-md-4">
-            <a href="/assets/static/src/assets/img/gallery/ji11/g4.png" class="img-gal">
-              <div class="single-imgs relative">
-                <g-image class="card-img rounded-0" src="~/assets/img/gallery/ji11/g4.png" alt />
-                <div class="overlay">
-                  <div class="overlay-content">
-                    <div class="overlay-icon">
-                      <i class="ti-plus"></i>
-                    </div>
+            <div class="single-imgs relative">
+              <g-image class="card-img rounded-0" src="~/assets/img/gallery/ji11/g4.png" alt />
+              <div class="overlay">
+                <div class="overlay-content">
+                  <div class="overlay-icon">
+                    <i class="ti-plus"></i>
                   </div>
                 </div>
               </div>
-            </a>
+            </div>
           </div>
           <div class="col-sm-6 col-md-4">
-            <a href="/assets/static/src/assets/img/gallery/ji12/g3.png" class="img-gal">
-              <div class="single-imgs relative">
-                <g-image class="card-img rounded-0" src="~/assets/img/gallery/ji12/g3.png" alt />
-                <div class="overlay">
-                  <div class="overlay-content">
-                    <div class="overlay-icon">
-                      <i class="ti-plus"></i>
-                    </div>
+            <div class="single-imgs relative">
+              <g-image class="card-img rounded-0" src="~/assets/img/gallery/ji12/g3.png" alt />
+              <div class="overlay">
+                <div class="overlay-content">
+                  <div class="overlay-icon">
+                    <i class="ti-plus"></i>
                   </div>
                 </div>
               </div>
-            </a>
+            </div>
           </div>
           <div class="col-sm-6 col-md-4">
-            <a href="/assets/static/src/assets/img/gallery/ji12/g4.png" class="img-gal">
-              <div class="single-imgs relative">
-                <g-image class="card-img rounded-0" src="~/assets/img/gallery/ji12/g4.png" alt />
-                <div class="overlay">
-                  <div class="overlay-content">
-                    <div class="overlay-icon">
-                      <i class="ti-plus"></i>
-                    </div>
+            <div class="single-imgs relative">
+              <g-image class="card-img rounded-0" src="~/assets/img/gallery/ji12/g4.png" alt />
+              <div class="overlay">
+                <div class="overlay-content">
+                  <div class="overlay-icon">
+                    <i class="ti-plus"></i>
                   </div>
                 </div>
               </div>
-            </a>
+            </div>
           </div>
           <div class="col-sm-6 col-md-4">
-            <a href="/assets/static/src/assets/img/gallery/ji12/g5.png" class="img-gal">
-              <div class="single-imgs relative">
-                <g-image class="card-img rounded-0" src="~/assets/img/gallery/ji12/g5.png" alt />
-                <div class="overlay">
-                  <div class="overlay-content">
-                    <div class="overlay-icon">
-                      <i class="ti-plus"></i>
-                    </div>
+            <div class="single-imgs relative">
+              <g-image class="card-img rounded-0" src="~/assets/img/gallery/ji12/g5.png" alt />
+              <div class="overlay">
+                <div class="overlay-content">
+                  <div class="overlay-icon">
+                    <i class="ti-plus"></i>
                   </div>
                 </div>
               </div>
-            </a>
+            </div>
           </div>
           <div class="col-sm-6 col-md-4">
-            <a href="/assets/static/src/assets/img/gallery/ji12/g6.png" class="img-gal">
-              <div class="single-imgs relative">
-                <g-image class="card-img rounded-0" src="~/assets/img/gallery/ji12/g6.png" alt />
-                <div class="overlay">
-                  <div class="overlay-content">
-                    <div class="overlay-icon">
-                      <i class="ti-plus"></i>
-                    </div>
+            <div class="single-imgs relative">
+              <g-image class="card-img rounded-0" src="~/assets/img/gallery/ji12/g6.png" alt />
+              <div class="overlay">
+                <div class="overlay-content">
+                  <div class="overlay-icon">
+                    <i class="ti-plus"></i>
                   </div>
                 </div>
               </div>
-            </a>
+            </div>
           </div>
         </div>
         <div class="row mt-5">
