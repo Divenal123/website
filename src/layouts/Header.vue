@@ -1,57 +1,5 @@
 <template>
   <div>
-    <header class="header_area">
-      <div class="main_menu">
-        <div class="header_bar"></div>
-        <b-navbar toggleable="lg" type="light">
-          <b-container class="box_1620">
-            <g-link class="navbar-brand logo_h" to="/">
-              <g-image
-                src="~/assets/img/logo.png"
-                alt="Logo des Journées Informatiques 13"
-                width="80px"
-              />
-            </g-link>
-            <b-navbar-toggle target="nav-collapse">
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </b-navbar-toggle>
-
-            <b-collapse class="collapse navbar-collapse offset" id="nav-collapse" is-nav>
-              <b-navbar-nav class="menu_nav justify-content-end">
-                <b-nav-item>
-                  <g-link class="nav-link" to="/">Accueil</g-link>
-                </b-nav-item>
-                <b-nav-item>
-                  <g-link class="nav-link" to="/agenda/">Agenda</g-link>
-                </b-nav-item>
-                <b-nav-item>
-                  <g-link class="nav-link" to="/challenge/">Challenges</g-link>
-                </b-nav-item>
-
-                <b-nav-item class="nav-item">
-                  <g-link class="nav-link" to="/blog/">Blog</g-link>
-                </b-nav-item>
-
-                <b-nav-item class="nav-item">
-                  <g-link class="nav-link" to="/archive/">Archives</g-link>
-                </b-nav-item>
-                <b-nav-item class="nav-item">
-                  <g-link class="nav-link" to="/contact/">Contact</g-link>
-                </b-nav-item>
-              </b-navbar-nav>
-              <b-navbar-nav class="nav-right text-center text-lg-right py-4 py-lg-0">
-                <li>
-                  <g-link to="/contact/">Rejoignez-nous</g-link>
-                </li>
-              </b-navbar-nav>
-            </b-collapse>
-          </b-container>
-        </b-navbar>
-      </div>
-    </header>
-
     <slot />
 
     <footer class="footer-area">

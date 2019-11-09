@@ -2,8 +2,8 @@
   <Layout>
     <!--================Hero Banner Area Start =================-->
     <section class="hero-banner">
-      <b-container>
-        <b-row>
+      <div class="container">
+        <div class="row">
           <div class="col-12 col-sm-6" style="z-index: 10;">
             <span class="hero-banner-icon">
               <i class="flaticon-sing"></i>
@@ -13,17 +13,14 @@
             <p>
               Les rendez-vous des
               <span id="typed1"></span>
-              <noscript>
-                <span>des étudiants, professeurs, entrepreneurs.</span>
-              </noscript>
             </p>
             <g-link class="button button-header" to="/join">Rejoignez-nous</g-link>
           </div>
           <div class="col-12 col-sm-4">
             <g-image class="img-fluid" src="~/assets/img/banner/vr.png"></g-image>
           </div>
-        </b-row>
-      </b-container>
+        </div>
+      </div>
     </section>
     <!--================Hero Banner Area End =================-->
 
