@@ -12,12 +12,5 @@ module.exports = {
       // global remark options
     }
   },
-  plugins: [
-    {
-      use: "@gridsome/plugin-google-analytics",
-      options: {
-        id: "UA-150373267-1"
-      }
-    }
-  ]
+  plugins: []
 };
