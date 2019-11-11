@@ -706,7 +706,7 @@
           </div>
           <div class="row mt-5">
             <div class="col-12 text-center">
-              <g-link class="button mb-2" to="/contact/">Je veux sponsoriser</g-link>
+              <g-link class="button mb-2 text-white" to="/contact/">Je veux sponsoriser</g-link>
             </div>
           </div>
         </div>
@@ -830,7 +830,7 @@
         <div class="row mt-5">
           <div class="col-12 text-center">
             <a
-              class="button mb-2"
+              class="button mb-2 text-white"
               target="_blank"
               href="https://drive.google.com/drive/folders/1AKQwJVx-ih_MAT5nXhi26YRTip0021u_?usp=sharing"
             >
