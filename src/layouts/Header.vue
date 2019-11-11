@@ -13,6 +13,11 @@
               />
             </g-link>
 
+            <b-navbar-toggle target="nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </b-navbar-toggle>
 
             <b-collapse class="collapse navbar-collapse offset" id="nav-collapse" is-nav>
               <b-navbar-nav class="menu_nav justify-content-end">
