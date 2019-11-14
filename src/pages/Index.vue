@@ -131,7 +131,7 @@
         </div>
         <div class="row mt-5">
           <div class="col-12 text-center">
-            <g-link class="button mb-2" to="/contact">Voir l'agenda</g-link>
+            <g-link class="button mb-2" to="/agenda">Voir l'agenda</g-link>
           </div>
         </div>
       </div>

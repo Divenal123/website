@@ -255,7 +255,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "About us"
+    title: "Archives | Journées Informatiques"
   }
 };
 </script>
