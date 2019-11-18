@@ -17,7 +17,7 @@
                 class="button mb-2"
                 target="_blank"
                 href="https://app.journeesinformatiques.com"
-              >Je veux inscrire mon application</a>
+              >Je veux inscrire projet</a>
             </div>
           </div>
         </div>
