@@ -98,11 +98,11 @@
             <div class="feature-icon">
               <i class="flaticon-prize"></i>
             </div>
-            <h3>App challenge</h3>
+            <h3>Tech challenge</h3>
             <p class="text-justify">
               Une compétition qui vise à développer et présenter des solutions numériques par les étudiants pour
               améliorer la vie
-              quotidienne en RDC. Chaque solution sera soumise aux votes des jury et du public.
+              quotidienne en RDC. Chaque solution sera soumise aux votes d'un jury et du public.
             </p>
           </div>
 
