@@ -229,7 +229,7 @@
 
               <p
                 class="text-justify"
-              >Divenal Basilua (Coordonateur), Cynthia Awa (Vice-coordonatrice),</p>
+              >Divenal Basilua (Coordonateur), Cynthia Saïdi (Vice-coordonatrice), Victoire Sebu (Secrétaire général), Igor Visi (Chargé de design et marque), Christian Mutombo (Chargé de finance), Nehemie Pambolo (Chargé de relations extérieures), Josué Badimanya (chargé des protocols), Peter Ochuidi (Chargé de technologie et innovation), Sarah Kabwayi (Porte parole)</p>
             </div>
           </div>
           <div class="container">
@@ -241,7 +241,7 @@
                   class="button mb-2"
                 >
                   Je veux voir
-                  plus
+                  plus des photos
                 </a>
               </div>
             </div>
